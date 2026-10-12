@@ -3145,6 +3145,7 @@ var cnames_active = {
   "soloalert": "arnav-kr.github.io/soloalert",
   "solome": "solome.github.io",
   "solu": "soiu.github.io/solu",
+  "som": "somnathmahato-com.pages.dev",
   "somerandomcat": "hosting.gitbook.io", // noCF
   "sonicware": "easyontop.github.io/Sonicware.js",
   "soniq": "fullstack-build.github.io/soniq",
